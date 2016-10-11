@@ -1,20 +1,11 @@
-/**
- * 
- */
 package atelier01;
 
-/**
- * @author isha219-19
- *
- */
 public class SimpleProgramme1 {
-
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		String phrase = "Bonjour mon nom est Claude Montacié";
+		System.out.println(phrase);
+		String mots[] = phrase.split(" ");
+		for (String s : mots)
+			System.out.println(s);
 	}
-
 }
