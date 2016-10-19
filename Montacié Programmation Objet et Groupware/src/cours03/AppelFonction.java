@@ -16,7 +16,7 @@ public class AppelFonction {
 	
 
 	/**
-	 * Minimum de deux r�els
+	 * Minimum de deux reels
 	 * 
 	 * @param x
 	 *            : premier argument r�el
